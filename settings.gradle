@@ -1,0 +1,1 @@
+include ':app', ':ioc-api', ':ioc-annotation', ':ioc-compiler'
